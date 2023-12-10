@@ -1,0 +1,7 @@
+[
+    {"id":0,"rango":"Menos de 180 días","valor":1},
+    {"id":1,"rango":"Entre 180 días y un año","valor":2},
+    {"id":2,"rango":"Entre uno y dos años","valor":3},
+    {"id":3,"rango":"Más de dos años","valor":4}
+  ]
+  

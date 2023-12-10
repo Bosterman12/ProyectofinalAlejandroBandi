@@ -1,0 +1,7 @@
+[
+    {"id":0,"rango":"El 5% o menos de mis ahorros mensuales","valor":1},
+    {"id":1,"rango":"Entre el 5% y el 20% de mis ahorros mensuales","valor":2},
+    {"id":2,"rango":"Entre el 20% y el 50% de mis ahorros mensuales","valor":3},
+    {"id":3,"rango":"Más del 50% de mis ahorros mensuales","valor":4}
+  ]
+  

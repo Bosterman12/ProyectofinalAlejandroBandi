@@ -1,0 +1,7 @@
+[
+    {"id":0,"rango":"Deseo preservar el capital invertido","valor":1},
+    {"id":1,"rango":"Deseo obtener una rentabilidad apenas superior a un plazo fijo","valor":2},
+    {"id":2,"rango":"Deseo obtener la rentabilidad promedio del mercado financiero","valor":3},
+    {"id":3,"rango":"Deseo maximizar la rentabilidad aunque implique asumir riesgos significativos","valor":4}
+  ]
+  

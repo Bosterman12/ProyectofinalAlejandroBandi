@@ -1,0 +1,7 @@
+[
+    {"id":0,"rango":"No tengo conocimientos","valor":1},
+    {"id":1,"rango":"Tengo conocimientos básicos","valor":2},
+    {"id":2,"rango":"Tengo conocimientos intermedios","valor":3},
+    {"id":3,"rango":"Tengo conocimientos avanzados","valor":4}
+  ]
+  

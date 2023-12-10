@@ -1,0 +1,7 @@
+[
+    {"id":0,"inversor":"Averso al riesgo","recomendacion":"Le aconsejamos llevarse los dólares al colchón"},
+    {"id":1,"inversor":"Conservador","recomendacion":"Le aconsejamos bonos investment grade y fondos de money market"},
+    {"id":2,"inversor":"Moderado","recomendacion":"Le aconsejamos una cartera de acciones del S&P 500"},
+    {"id":3,"inversor":"Agresivo","recomendacion":"Le aconsejamos invertir en Hedge Funds"}
+  ]
+  

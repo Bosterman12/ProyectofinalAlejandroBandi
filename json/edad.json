@@ -1,0 +1,7 @@
+[
+    {"id":0,"rango":"Menor de 25 años","valor":1},
+    {"id":1,"rango":"Entre 25 y 35 años","valor":2},
+    {"id":2,"rango":"Entre 36 y 55 años","valor":3},
+    {"id":3,"rango":"Mayor de 55","valor":4}
+  ]
+  
